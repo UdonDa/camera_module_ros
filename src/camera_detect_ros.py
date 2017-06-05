@@ -61,8 +61,8 @@ def main(args):
         print "Shutting Down"
 
 #if __name__ == '__main__':
-main(sys.argv)
-    
+print "Start"
+main(sys.argv)    
 
 
 
